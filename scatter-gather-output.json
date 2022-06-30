@@ -1,0 +1,72 @@
+{
+  "0": {
+    "inboundAttachmentNames": [],
+    "exceptionPayload": null,
+    "inboundPropertyNames": [],
+    "outboundAttachmentNames": [],
+    "payload": "",
+    "outboundPropertyNames": [],
+    "attributes": {
+      "headers": {
+        "user-agent": "PostmanRuntime/7.22.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "47e20bb3-3726-4437-8b86-8ef55cd27d71",
+        "host": "localhost:8081",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive"
+      },
+      "clientCertificate": null,
+      "method": "GET",
+      "scheme": "http",
+      "queryParams": {},
+      "requestUri": "/variable",
+      "queryString": "",
+      "version": "HTTP/1.1",
+      "maskedRequestPath": null,
+      "listenerPath": "/variable",
+      "relativePath": "/variable",
+      "localAddress": "127.0.0.1:8081",
+      "uriParams": {},
+      "rawRequestUri": "/variable",
+      "rawRequestPath": "/variable",
+      "remoteAddress": "127.0.0.1:60309",
+      "requestPath": "/variable"
+    }
+  },
+  "1": {
+    "inboundAttachmentNames": [],
+    "exceptionPayload": null,
+    "inboundPropertyNames": [],
+    "outboundAttachmentNames": [],
+    "payload": "",
+    "outboundPropertyNames": [],
+    "attributes": {
+      "headers": {
+        "user-agent": "PostmanRuntime/7.22.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "47e20bb3-3726-4437-8b86-8ef55cd27d71",
+        "host": "localhost:8081",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive"
+      },
+      "clientCertificate": null,
+      "method": "GET",
+      "scheme": "http",
+      "queryParams": {},
+      "requestUri": "/variable",
+      "queryString": "",
+      "version": "HTTP/1.1",
+      "maskedRequestPath": null,
+      "listenerPath": "/variable",
+      "relativePath": "/variable",
+      "localAddress": "127.0.0.1:8081",
+      "uriParams": {},
+      "rawRequestUri": "/variable",
+      "rawRequestPath": "/variable",
+      "remoteAddress": "127.0.0.1:60309",
+      "requestPath": "/variable"
+    }
+  }
+}
